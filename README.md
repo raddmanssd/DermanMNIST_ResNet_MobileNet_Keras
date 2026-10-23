@@ -1,0 +1,1 @@
+This is a repository for the DermanMNIST dataset, a medical dataset. I used keras applications, such as ResNet and MobileNet for this project and got even higher benchmarks than the it's website even with less computational force.
